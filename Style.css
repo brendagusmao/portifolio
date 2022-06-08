@@ -1,0 +1,10 @@
+body {background:#F0ECE3; background-attachment:fixed; font-family:trebuchet ms; font-size: 11px; color: #888; background-image: url('');}
+.header {background:#DEB6AB;width:101%;height:250px;margin-top:-5px;margin-left:0px;position:fixed;}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+h1 {font-family: 'Poppins', sans-serif;font-size:25px;color:#606559;text-transform:uppercase;position:fixed;width:100%;height:auto;margin-top:350px;margin-left:0px;text-align:center;}
+.headerimage {margin-left:565px;margin-top:130px;position:fixed}
+.headerimage img {width:180px;height:auto;border-radius: 100px;border:5px solid #F0ECE3}
+.about {font-family: 'Roboto Slab', serif;font-size:15px;color:#888;position:fixed;width:100%;height:auto;margin-top:400px;margin-left:0px;text-align:center;}
+a:visited, a:link, a:active {text-decoration: none; color:#85586F;}
+html {cursor:url('https://img69.imageshack.us/img69/7673/cursorw.png'), auto;}
+a, a:hover {cursor: url("https://31.media.tumblr.com/6fb38fc5e97353c67e3fc3a2e2b29bf9/tumblr_inline_n6zhnrva5p1r1shc4.png"), auto}
